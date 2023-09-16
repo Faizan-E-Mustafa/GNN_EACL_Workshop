@@ -70,7 +70,7 @@ python gnn_mixup.py
 ```
 
 ### BibTeX
-```json
+```bash
 @inproceedings{mustafa-etal-2023-annotating,
     title = "Annotating {P}ub{M}ed Abstracts with {M}e{SH} Headings using Graph Neural Network",
     author = "Mustafa, Faizan E  and
